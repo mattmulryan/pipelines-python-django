@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/mmulryan0004/test1/_apis/build/status/mattmulryan.pipelines-python-django)](https://dev.azure.com/mmulryan0004/test1/_build/latest?definitionId=1)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
